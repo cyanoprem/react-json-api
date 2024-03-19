@@ -1,3 +1,13 @@
 #navbar {
   text-align: center;
 }
+
+#input-area {
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+#get-button {
+  margin-top: 1rem;
+}

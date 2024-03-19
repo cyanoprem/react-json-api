@@ -1,9 +1,11 @@
+import InputArea from "./components/InputArea"
 import Navbar from "./components/Navbar"
 
 
 const App = () => {
   return <>
-  <Navbar></Navbar>
+    <Navbar />
+    <InputArea />    
   </>
 }
 
